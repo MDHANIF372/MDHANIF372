@@ -1,6 +1,5 @@
-# Hi 👋 I'm Hanif Mohammed
-
-🎯 Aspiring **Data Analyst / Python Developer**  
+# Hi 👋 I'm  Mohammed hanif
+🎯 Aspiring **Data Analyst   
 📊 Passionate about data, problem-solving, and building real-world projects  
 
 ---
