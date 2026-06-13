@@ -1,54 +1,62 @@
 # Hi 👋 I'm  Mohammed hanif
-🎯 Aspiring **Data Analyst   
-📊 Passionate about data, problem-solving, and building real-world projects  
 
----
+-
+
+### 🎯 Aspiring Data Analyst | Python • SQL • Power BI
+
+Turning raw data into clear, actionable insights. I enjoy data cleaning, exploratory analysis, and building dashboards that help people make better decisions.
+
+📍 India,chennai, 📧mohammedhanif2k3@gmail.com💼 [LinkedIn](https://www.linkedin.com/in/mhmdhanif-link/)
 
 ## 🔹 About Me
-- 🎓 Completed **Data Analyst course**
-- 🐍 Strong foundation in **Python**
-- 🗄️ Hands-on experience with **SQL queries**
-- 📈 Worked on **data analysis & visualization projects**
-- 🚀 Actively improving skills through practice and projects
+- 🎓 Completed a **Data Analyst certification course**
+- 🐍 Strong foundation in **Python** (Pandas, NumPy) for data analysis
+- 🗄️ Comfortable writing **SQL** queries — joins, grouping, and subqueries
+- 📊 Build interactive dashboards in **Power BI**
+- 🧹 Experienced in **data cleaning** and preparing datasets for analysis
+- 🚀 Continuously building real-world projects to sharpen my skills
+
+
+## 🛠 Skills & Tools
+
+**Languages & Querying**  
+Python · SQL
+
+**Data Analysis**  
+Pandas · NumPy · Data Cleaning · Exploratory Data Analysis (EDA)
+
+**Visualization & BI**  
+Power BI · Matplotlib · Excel (PivotTables, Charts)
+
+**Tools & Workflow**  
+Git · GitHub · Jupyter Notebook
 
 ---
 
-## 🔹 Skills & Tools
-- **Programming:** Python  
-- **Databases:** SQL  
-- **Data Analysis:** Pandas, NumPy  
-- **Visualization:** Power BI, Matplotlib  
-- **Tools:** Git, GitHub, Excel  
+## 🔹 Featured Projects
+
+### 📊 [CNG Sales Dashboard](https://github.com/MDHANIF372/CNG--SALES--DASBOAD)
+Interactive **Power BI** dashboard analyzing CNG sales performance, regional trends, and top-performing stations.  
+`Power BI` · `DAX` · `Excel` · `Data Modeling`
+
+### 🧹 [Employee Data Cleaning](https://github.com/MDHANIF372/EMPLOYEE_CLEAN.CSV)
+Cleaned and structured a raw employee dataset — handled duplicates, missing values, and formatting — to make it analysis-ready.  
+`Python` · `Pandas` · `Data Cleaning`
 
 ---
 
-## 🔹 Projects
-📌 **Python Data Analysis Project**  
-- Data cleaning and analysis using Pandas  
-- Extracted insights and visualized trends  
-
-📌 **SQL Practice Repository**  
-- SELECT, JOIN, GROUP BY, Subqueries  
-- Real-world query examples  
-
-📌 **Power BI Dashboard**  
-- Interactive dashboards  
-- Business insights from raw data  
-
-👉 Check my repositories below 👇
+## 🌱 Currently Learning
+- Advanced SQL for analytics (window functions, CTEs)
+- Statistics for data analysis
+- Advanced Power BI (DAX & data modeling)
 
 ---
 
-## 🔹 What I’m Currently Learning
-- Advanced Python for Data Analysis  
-- Real-world SQL case studies  
-- Improving Power BI dashboards  
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mhmdhanif-link/)
+- 📧 mohammedhanif2k3@gmail.com
 
 ---
 
-## 🔹 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/mhmdhanif-link/  
+⭐ Feel free to explore my repositories and star the ones you find useful!
 
----
-
-⭐ Feel free to explore my repositories and give a star if you find them useful!
